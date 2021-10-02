@@ -1,28 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pedr0\\Desktop\\UT CANCUN\\Decimo\\GESTIÓN DEL PROCESO DE DESARROLLO\\Unidad 1\\Laboratorio 2\\Functions.IntegrationsTest\\Functions.IntegrationsTest.csproj": {}
+    "C:\\Users\\jtcas\\OneDrive\\Escritorio\\Laboratory2\\u2t1l2.-laboratorio-2\\Functions.IntegrationsTest\\Functions.IntegrationsTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pedr0\\Desktop\\UT CANCUN\\Decimo\\GESTIÓN DEL PROCESO DE DESARROLLO\\Unidad 1\\Laboratorio 2\\Function.Integrations\\Function.Integrations.csproj": {
+    "C:\\Users\\jtcas\\OneDrive\\Escritorio\\Laboratory2\\u2t1l2.-laboratorio-2\\Function.Integrations\\Function.Integrations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pedr0\\Desktop\\UT CANCUN\\Decimo\\GESTIÓN DEL PROCESO DE DESARROLLO\\Unidad 1\\Laboratorio 2\\Function.Integrations\\Function.Integrations.csproj",
+        "projectUniqueName": "C:\\Users\\jtcas\\OneDrive\\Escritorio\\Laboratory2\\u2t1l2.-laboratorio-2\\Function.Integrations\\Function.Integrations.csproj",
         "projectName": "Function.Integrations",
-        "projectPath": "C:\\Users\\pedr0\\Desktop\\UT CANCUN\\Decimo\\GESTIÓN DEL PROCESO DE DESARROLLO\\Unidad 1\\Laboratorio 2\\Function.Integrations\\Function.Integrations.csproj",
-        "packagesPath": "C:\\Users\\pedr0\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pedr0\\Desktop\\UT CANCUN\\Decimo\\GESTIÓN DEL PROCESO DE DESARROLLO\\Unidad 1\\Laboratorio 2\\Function.Integrations\\obj\\",
+        "projectPath": "C:\\Users\\jtcas\\OneDrive\\Escritorio\\Laboratory2\\u2t1l2.-laboratorio-2\\Function.Integrations\\Function.Integrations.csproj",
+        "packagesPath": "C:\\Users\\jtcas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jtcas\\OneDrive\\Escritorio\\Laboratory2\\u2t1l2.-laboratorio-2\\Function.Integrations\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\pedr0\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\jtcas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"
@@ -72,25 +65,18 @@
         }
       }
     },
-    "C:\\Users\\pedr0\\Desktop\\UT CANCUN\\Decimo\\GESTIÓN DEL PROCESO DE DESARROLLO\\Unidad 1\\Laboratorio 2\\Functions.IntegrationsTest\\Functions.IntegrationsTest.csproj": {
+    "C:\\Users\\jtcas\\OneDrive\\Escritorio\\Laboratory2\\u2t1l2.-laboratorio-2\\Functions.IntegrationsTest\\Functions.IntegrationsTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pedr0\\Desktop\\UT CANCUN\\Decimo\\GESTIÓN DEL PROCESO DE DESARROLLO\\Unidad 1\\Laboratorio 2\\Functions.IntegrationsTest\\Functions.IntegrationsTest.csproj",
+        "projectUniqueName": "C:\\Users\\jtcas\\OneDrive\\Escritorio\\Laboratory2\\u2t1l2.-laboratorio-2\\Functions.IntegrationsTest\\Functions.IntegrationsTest.csproj",
         "projectName": "Functions.IntegrationsTest",
-        "projectPath": "C:\\Users\\pedr0\\Desktop\\UT CANCUN\\Decimo\\GESTIÓN DEL PROCESO DE DESARROLLO\\Unidad 1\\Laboratorio 2\\Functions.IntegrationsTest\\Functions.IntegrationsTest.csproj",
-        "packagesPath": "C:\\Users\\pedr0\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pedr0\\Desktop\\UT CANCUN\\Decimo\\GESTIÓN DEL PROCESO DE DESARROLLO\\Unidad 1\\Laboratorio 2\\Functions.IntegrationsTest\\obj\\",
+        "projectPath": "C:\\Users\\jtcas\\OneDrive\\Escritorio\\Laboratory2\\u2t1l2.-laboratorio-2\\Functions.IntegrationsTest\\Functions.IntegrationsTest.csproj",
+        "packagesPath": "C:\\Users\\jtcas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jtcas\\OneDrive\\Escritorio\\Laboratory2\\u2t1l2.-laboratorio-2\\Functions.IntegrationsTest\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\pedr0\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\jtcas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"
@@ -103,8 +89,8 @@
           "netcoreapp2.1": {
             "targetAlias": "netcoreapp2.1",
             "projectReferences": {
-              "C:\\Users\\pedr0\\Desktop\\UT CANCUN\\Decimo\\GESTIÓN DEL PROCESO DE DESARROLLO\\Unidad 1\\Laboratorio 2\\Function.Integrations\\Function.Integrations.csproj": {
-                "projectPath": "C:\\Users\\pedr0\\Desktop\\UT CANCUN\\Decimo\\GESTIÓN DEL PROCESO DE DESARROLLO\\Unidad 1\\Laboratorio 2\\Function.Integrations\\Function.Integrations.csproj"
+              "C:\\Users\\jtcas\\OneDrive\\Escritorio\\Laboratory2\\u2t1l2.-laboratorio-2\\Function.Integrations\\Function.Integrations.csproj": {
+                "projectPath": "C:\\Users\\jtcas\\OneDrive\\Escritorio\\Laboratory2\\u2t1l2.-laboratorio-2\\Function.Integrations\\Function.Integrations.csproj"
               }
             }
           }

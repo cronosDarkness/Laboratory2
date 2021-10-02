@@ -1,8 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Functions.IntegrationsTest"
+    "\\Function.Integrations",
+    "\\Function.Integrations\\Properties",
+    "\\Functions.IntegrationsTest",
+    "\\Functions.IntegrationsTest\\bin",
+    "\\Functions.IntegrationsTest\\bin\\Debug",
+    "\\Functions.IntegrationsTest\\obj",
+    "\\Functions.IntegrationsTest\\obj\\Debug",
+    "\\Functions.IntegrationsTest\\obj\\Debug\\netcoreapp2.1",
+    "\\Functions.IntegrationsTest\\obj\\Release"
   ],
-  "SelectedNode": "\\Functions.IntegrationsTest\\WelcomeFunctionTest.cs",
+  "SelectedNode": "\\Function.Integrations\\Helper.cs",
   "PreviewInSolutionExplorer": false
 }

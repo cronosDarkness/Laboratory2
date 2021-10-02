@@ -21,7 +21,7 @@ namespace Functions.IntegrationsTest
         [Fact]
         public async Task TestWhenFuctionisInvoked()
         {
-            responseMessage = await testFixture.Client.GetAsync("api/Welcome?name=Pedro+Lopez");
+            responseMessage = await testFixture.Client.GetAsync("api/Welcome?name=Jesus+Castro");
             Assert.True(responseMessage.IsSuccessStatusCode);
         }
 
